@@ -11,4 +11,4 @@ In this project I will continue practicing vanilla JS DOM manipulation by create
 1. Run `npm install`
 1. Open in VSCode using `code .`
 1. connect your module in a scipt tag in HTML
-1. Run `npm run dev`
+1. Run `npm run dev` to test the connection from script file
